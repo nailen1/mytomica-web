@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa626f82.css",
-    "main.js": "/static/js/main.e16e36a1.js",
+    "main.css": "/static/css/main.f1c3f25a.css",
+    "main.js": "/static/js/main.3d326d22.js",
     "static/js/787.3dc3e46a.chunk.js": "/static/js/787.3dc3e46a.chunk.js",
     "static/media/tomica-mustang-01.png": "/static/media/tomica-mustang-01.e3e2841d7301447b9966.png",
     "static/media/tomica-ferrari-fxx-01.jpeg": "/static/media/tomica-ferrari-fxx-01.ba82232aff0b2952075b.jpeg",
@@ -10,12 +10,12 @@
     "static/media/tomica-civic-01.jpeg": "/static/media/tomica-civic-01.49815d58d26b8dcadc2c.jpeg",
     "static/media/seoul-vector.svg": "/static/media/seoul-vector.eb477dbe31d46a1fd6cb.svg",
     "index.html": "/index.html",
-    "main.aa626f82.css.map": "/static/css/main.aa626f82.css.map",
-    "main.e16e36a1.js.map": "/static/js/main.e16e36a1.js.map",
+    "main.f1c3f25a.css.map": "/static/css/main.f1c3f25a.css.map",
+    "main.3d326d22.js.map": "/static/js/main.3d326d22.js.map",
     "787.3dc3e46a.chunk.js.map": "/static/js/787.3dc3e46a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa626f82.css",
-    "static/js/main.e16e36a1.js"
+    "static/css/main.f1c3f25a.css",
+    "static/js/main.3d326d22.js"
   ]
 }
